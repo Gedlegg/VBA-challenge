@@ -1,6 +1,6 @@
 # VBA-challenge
 
-# Explanation of Script Creation:
+# Explanation of Script Creation: (My VBA Script Has two subroutines Stock_Data and Reset)
 
 # Retrieval of Data:
 
